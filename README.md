@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julienvier
 - 👀 I’m interested in Kotlin
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Kotlin, JavaScript, HTML, CSS
+- 
 - 📫 How to reach me julien.ziegler@vier.ai
 
 <!---
