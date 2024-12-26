@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julienvier
 - 👀 I’m interested in Kotlin
 - 🌱 I’m currently learning Kotlin, JavaScript, HTML, CSS
-- 📫 How to reach me julien.ziegler@vier.ai
+- 📫 How to reach me julien.ziegler@vier.ai / julien@julien-ziegler.de
 
 <!---
 julienvier/julienvier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
